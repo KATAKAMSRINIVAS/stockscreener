@@ -1,0 +1,13 @@
+# Core data libraries (wheel-safe versions)
+numpy>=1.26,<2.0
+pandas>=2.1,<2.3
+
+# Finance data
+yfinance>=0.2.40
+
+# UI
+streamlit>=1.30
+streamlit-autorefresh>=1.0.1
+
+# Utilities
+requests>=2.31
